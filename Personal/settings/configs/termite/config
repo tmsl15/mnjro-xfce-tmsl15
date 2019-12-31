@@ -46,7 +46,7 @@ size_hints = false
 cursor = #e8e8e8
 #cursor_foreground = #dcdccc
 
-foreground 	 = #5ac3ae ##d8d8d8 ##7c9c95
+foreground 	 = #BDF1E7
 foreground_bold  = #e8e8e8
 background	 = #181818
 
@@ -64,7 +64,7 @@ highlight = #2f2f2f
 # Black, Gray, Silver, White
 color0  = #181818
 color8  = #585858
-color7  = #5ac3ae
+color7  = #BDF1E7
 color15 = #f8f8f8
 
 # Red
